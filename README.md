@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá! Eu sou a Jeniffer 👋
 
-<!--
-**jenifferfernandes/jenifferfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Aprendendo Python e lógica de programação  
+☁️ Estudando Cloud AWS  
 
-Here are some ideas to get you started:
+## Tecnologias em aprendizado
+- Python
+- Git e GitHub
+- Lógica de programação
+- Cloud AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+📂 python-estudos  
+Repositório com exercícios e projetos iniciais em Python.
