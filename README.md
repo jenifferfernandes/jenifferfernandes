@@ -1,15 +1,14 @@
 # Olá! Eu sou a Jeniffer 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Aprendendo Python e lógica de programação  
-☁️ Estudando Cloud AWS  
+Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência em operações, análise de dados e melhoria de processos.
 
-## Tecnologias em aprendizado
-- Python
-- Git e GitHub
-- Lógica de programação
-- Cloud AWS
+Atualmente desenvolvo projetos utilizando:
 
-## Projetos
-📂 python-estudos  
-Repositório com exercícios e projetos iniciais em Python.
+• Python
+• SQL
+• HTML
+• CSS
+• Power BI
+• Git
+
+Aqui você encontrará projetos voltados ao desenvolvimento de software, automação de processos e análise de dados.
